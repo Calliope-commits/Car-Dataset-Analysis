@@ -9,3 +9,10 @@ Le projet doit suivre les étapes suivantes :
 - justifier le choix de votre approche,
 - tester l’approche choisie sur l’ensemble de données en utilisant les options vues en cours,
 - analyser et commenter les résultats obtenus.
+
+
+## Auteurs : 
+
+-Aïssatou Signate
+-Jacky Thay
+-Yann Trividic
