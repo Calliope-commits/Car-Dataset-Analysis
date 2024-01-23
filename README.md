@@ -1,5 +1,5 @@
 # Car-Dataset-Analysis
-Traitement numérique de données - Université Paris Cité - 2020 - Enseignante : Nicoleta ROGOVSCHI
+Traitement numérique de données - Université Paris Cité - Enseignante : Nicoleta ROGOVSCHI
 
 ## Sujet du projet : 
 Ce projet est un travail sur données réelles. Il s'agit de mettre en oeuvre une ou plusieurs méthodes vues en cours sur un jeu de données proposé pour chaque groupe.
